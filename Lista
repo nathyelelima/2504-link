@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aula 11/04</title>
+</head>
+<body>
+
+    <h1>Aula 11/04<h1>
+    <h3>Testando TAGs</h3>
+
+  <p> A tag de link pode ser inserida em algum elemento. Por exemplo, acesso o site </p>
+  
+ 
+  <a href="https://iftm.edu.br"><img src="./glorivan.png" alt=" Foto Glorivan" width="200">
+  
+  </a>
+
+  <h3>Testando Listas</h3>
+
+  <!--Comentario em HTML
+  UL - não ordenadas
+  OL - ordenadas
+  LI - adiciona um item à lista
+  -->
+  <ul>
+    <a href="#"><li></li>Exemplo de um elemento de lista</li>
+    <li><a href="#">Outro exemplo de elemento de lista</li>
+  </ul>
+
+  <ol>
+    <li> Lista não ordenada dentro de uma lista ordenada </li>
+  </ol>
+
+
+  <h3> Testando Tabelas</h3>
+  <c!--
+     table - iniciar uma àrea de tabela
+     tr - abrir um espaçamento de linha
+     td - abrir um espaçamento de data/dados
+     th - abrir um espaçamento de cabeça/header
+
+-->
+     <table>
+         <tr>
+            <th>Aluno</th>
+            <th>Email</th>
+            <th>Advertência</th>
+        </tr>
+        <tr>
+            <td>João</td>
+            <td>João@algumacoisa.com</td>
+            <td>Sim</td>
+        </tr>
+        <tr>
+                <td>Maria</td>
+                <td>Maria@algumacoisa.com</td>
+                <td>Não</td>  
+        </tr>
+        </table>
+
+  
+
+
+     </body>
+</html>
