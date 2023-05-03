@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Aula 02/05/2023 </title>
+
+</head>
+<body>
+ <form action="/action_page.php" method="get" name="Meu formulário"
+
+    <h1>Envie uma mensagem preenchendo o formulário abaixo:</h1>
+    <br>
+    <br>
+    <label for=" ">Nome:</label>
+    <br>
+    <input type="text"  name="nome" id="nome" placeholder="Seu nome e sobrenome"> 
+    <br>
+    <br>
+    Seu telefone:
+    <br>
+    <input type="text"  name="telefone" id="telefone" placeholder="999999999"> 
+    <br>
+    <br>
+    <label for=""> Seu E-mail:</label>
+    <br>
+    <input type="email" placeholder="meuemail@exemplo.com.br">
+    <br>
+    <br>
+    Deseja receber as nossas novidades?
+    <br>
+    <label for=" opçao "></label>
+    <input type="radio" name="opçao" id="SIM" >SIM
+    <input type="radio" name="opçao" id="NÃO" >NÃO
+    <br> 
+    <br>
+    Sua mensagem:
+    <br>
+    <textarea name="" id="" cols="30" rows="10" placeholder="Sua mensagem de exemplo!"></textarea>
+    <br>
+ 
+   </form>
+
+   </body>
+</html>
