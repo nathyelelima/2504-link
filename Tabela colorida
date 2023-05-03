@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 26/04</title>
+    </head>
+    
+    <style>
+        #conteudo {
+            background-color: black;
+            height: 200px;
+        }
+        div {
+            background-color: red;
+        }
+        h1{
+            color:yellow;
+        } 
+        P{
+            color:white;
+        }
+    </style>
+</head>
+</body>
+
+          <div id="conteudo">
+            <h1>Aula sobre divs</h1>
+            <p>Essa aula é muito fácil</p>
+            <h1>Não estou vendo</h1>
+            <p>Será porque?</p>
+          </div>
+          <div> 
+            <p>Escreveu qualquer coisa</p>
+          </div>
+</body>
+</html>
