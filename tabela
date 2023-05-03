@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+     </form action="" method="get" name="meu formulario"> 
+
+        <label for=""> Nome</label>
+        <input type="text" name="nome" id="p-nome">
+        <br>
+
+        <label for="">Curso</label>
+        <input type="radio" name="curso" id="tinf"> TINF
+        <input type="radio" name="curso" id="tadm"> TADM
+        <input type="radio" name="curso" id="tele"> TELE
+        <input type="radio" name="curso" id="tcon"> TCON
+        <br>
+        <label for="">Hobies:</label> <br>
+        <input type="checkbox">Leitura <br>
+        <input type="checkbox">Jogos Eletronicos <br>
+        <input type="checkbox">Esportes <br>
+        <input type="checkbox">Nada <br>
+
+    </form>
+
+
+</body>
+</html>
